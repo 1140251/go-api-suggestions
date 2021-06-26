@@ -15,5 +15,5 @@ with open('cities15000.csv') as csv_file:
         for row in csv_reader:
             if row[8] == 'GB':
                 line_count += 1
-                csv_writer.writerow([line_count, row[1], row[4], row[5], row[8]])
+                csv_writer.writerow([row[1], row[4], row[5], row[8]])
     print(f'Processed {line_count} cities in GB.')
