@@ -1,0 +1,44 @@
+{
+	"info": {
+		"_postman_id": "af285426-e8d5-46d5-bc00-99aea0da9ea4",
+		"name": "BeZero",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Suggestions",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8080/api/v1/suggestions?q=London&latitude=51.507&longitude=0.127",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"api",
+						"v1",
+						"suggestions"
+					],
+					"query": [
+						{
+							"key": "q",
+							"value": "London"
+						},
+						{
+							"key": "latitude",
+							"value": "51.507"
+						},
+						{
+							"key": "longitude",
+							"value": "0.127"
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
