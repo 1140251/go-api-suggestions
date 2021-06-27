@@ -20,7 +20,7 @@ func SuggestionHandler(w http.ResponseWriter, r *http.Request) {
 
 	fmt.Printf("Search for: %s, %s, %s\n", city, latitude, longitude)
 
-	lat, err := strconv.ParseFloat(latitude, 32)
+	lat, err := strconv.ParseFloat(longitude, 32)
 	if err != nil {
 		log.Printf("Could not convert string latitude to float64: %v\n", err)
 	}
@@ -34,12 +34,14 @@ func SuggestionHandler(w http.ResponseWriter, r *http.Request) {
 
 	var partialSuggestions []model.Suggestion
 	var suggestions []model.Suggestion
-
 	var distances float64
+
+
 	for _, c := range *allcities {
 		var distance float64
 
 		if strings.Contains(c.Name, city) {
+			fmt.Println("There is a match")
 			distance = HaversineDistance(float64(c.Latitude), float64(c.Longitude), lat, long)
 			distances += distance
 			partialSuggestions = append(partialSuggestions, model.Suggestion{
@@ -61,7 +63,6 @@ func SuggestionHandler(w http.ResponseWriter, r *http.Request) {
 		})
 	}
 
-	// fmt.Printf("Suggestions: %v\n", suggestions)
 	sort.Slice(suggestions, func(i, j int) bool {
 		return suggestions[i].Score > suggestions[j].Score
 	})

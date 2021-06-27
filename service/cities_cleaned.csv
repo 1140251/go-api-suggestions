@@ -1,0 +1,769 @@
+Name,Latitude,Longitude,CountryCode
+York,53.95763,-1.08271,GB
+Yeovil,50.94159,-2.63211,GB
+Yeadon,53.86437,-1.68743,GB
+Yate,51.54074,-2.41839,GB
+Yarm,54.50364,-1.35793,GB
+Wrexham,53.04664,-2.99132,GB
+Worthing,50.81795,-0.37538,GB
+Worksop,53.30182,-1.12404,GB
+Workington,54.6425,-3.54413,GB
+Worcester Park,51.37992,-0.24445,GB
+Worcester,52.18935,-2.22001,GB
+Woodford Green,51.60938,0.02329,GB
+Wombwell,53.52189,-1.39698,GB
+Wolverhampton,52.58547,-2.12296,GB
+Wokingham,51.4112,-0.83565,GB
+Woking,51.31903,-0.55893,GB
+Witney,51.7836,-1.4854,GB
+Witham,51.80007,0.64038,GB
+Wishaw,55.76667,-3.91667,GB
+Wisbech,52.66622,0.15938,GB
+Winsford,53.19146,-2.52398,GB
+Windsor,51.48333,-0.6,GB
+Winchester,51.06513,-1.3187,GB
+Wilmslow,53.32803,-2.23148,GB
+Willenhall,52.58514,-2.05934,GB
+Wigston Magna,52.58128,-1.09248,GB
+Wigan,53.54296,-2.63706,GB
+Widnes,53.3618,-2.73406,GB
+Wickford,51.61101,0.52331,GB
+Whitstable,51.3607,1.0257,GB
+Whitley Bay,55.03973,-1.44713,GB
+Whitehaven,54.54897,-3.58412,GB
+Whitefield,53.55,-2.3,GB
+Whickham,54.94561,-1.67635,GB
+Weymouth,50.61448,-2.45991,GB
+Weybridge,51.37178,-0.45975,GB
+Weston-super-Mare,51.34603,-2.97665,GB
+West Molesey,51.39985,-0.37997,GB
+City of Westminster,51.4975,-0.1357,GB
+Westhoughton,53.54899,-2.52464,GB
+Westbury,51.26,-2.1875,GB
+West Bromwich,52.51868,-1.9945,GB
+West Bridgford,52.92979,-1.12537,GB
+Wembley,51.55242,-0.29686,GB
+Welwyn Garden City,51.80174,-0.20691,GB
+Wellington,52.7,-2.51667,GB
+Wellingborough,52.30273,-0.69446,GB
+Welling,51.46246,0.10759,GB
+Wednesfield,52.5963,-2.08508,GB
+Wednesbury,52.5514,-2.02355,GB
+Wath upon Dearne,53.50291,-1.3458,GB
+Watford,51.65531,-0.39602,GB
+Waterlooville,50.88067,-1.0304,GB
+Washington,54.9,-1.51667,GB
+Warwick,52.28333,-1.58333,GB
+Warrington,53.39254,-2.58024,GB
+Warminster,51.20434,-2.17873,GB
+Ware,51.81058,-0.02875,GB
+Wantage,51.58846,-1.42565,GB
+Walton-on-Thames,51.38678,-0.41319,GB
+Walton-on-the-Naze,51.84819,1.26738,GB
+Waltham Abbey,51.687,-0.00421,GB
+Walsall,52.58528,-1.98396,GB
+Wallsend,54.99111,-1.53397,GB
+Wallasey,53.42324,-3.06497,GB
+Walkden,53.51667,-2.4,GB
+Wakefield,53.68331,-1.49768,GB
+Urmston,53.44852,-2.35419,GB
+Uckfield,50.96948,0.09589,GB
+Tynemouth,55.01788,-1.42559,GB
+Tyldesley,53.51393,-2.46754,GB
+Truro,50.26526,-5.05436,GB
+Trowbridge,51.31889,-2.20861,GB
+Totton,50.91877,-1.49037,GB
+Torquay,50.46198,-3.52522,GB
+Tonbridge,51.19532,0.27363,GB
+Tiverton,50.90241,-3.49232,GB
+Tipton,52.52956,-2.06773,GB
+Thorne,53.61122,-0.96308,GB
+Thornaby-on-Tees,54.53333,-1.3,GB
+Thetford,52.41667,0.75,GB
+Thatcham,51.40366,-1.26049,GB
+Tewkesbury,51.99244,-2.1601,GB
+Teignmouth,50.54581,-3.49671,GB
+Taunton,51.01494,-3.10293,GB
+Tamworth,52.63399,-1.69587,GB
+Tadley,51.35045,-1.1285,GB
+Swinton,53.5,-2.35,GB
+Swindon,51.55797,-1.78116,GB
+Swansea,51.62079,-3.94323,GB
+Swanscombe,51.44713,0.31028,GB
+Swanley,51.39717,0.17321,GB
+Swadlincote,52.774,-1.55744,GB
+Sutton in Ashfield,53.12542,-1.26135,GB
+Sutton Coldfield,52.56667,-1.81667,GB
+Sutton,51.35,-0.2,GB
+Sunderland,54.90465,-1.38222,GB
+Sunbury-on-Thames,51.40424,-0.41817,GB
+Sudbury,52.0389,0.73117,GB
+Stroud,51.75,-2.2,GB
+Strood,51.39323,0.47713,GB
+Stretford,53.45,-2.31667,GB
+Stratford-upon-Avon,52.19166,-1.70734,GB
+Stowmarket,52.18893,0.99774,GB
+Stourport-on-Severn,52.33976,-2.28034,GB
+Stourbridge,52.45608,-2.14317,GB
+Stoke-on-Trent,53.00415,-2.18538,GB
+Stockton-on-Tees,54.56848,-1.3187,GB
+Stockport,53.40979,-2.15761,GB
+Stirling,56.11903,-3.93682,GB
+Stevenage,51.90224,-0.20256,GB
+Staveley,53.26667,-1.35,GB
+Stanford-le-Hope,51.52274,0.43422,GB
+Stamford,52.65,-0.48333,GB
+Stalybridge,53.48414,-2.05908,GB
+Staines,51.43092,-0.50606,GB
+Stafford,52.80521,-2.11636,GB
+Spennymoor,54.6988,-1.60229,GB
+Spalding,52.78709,-0.15141,GB
+South Shields,54.99859,-1.4323,GB
+Southsea,50.78351,-1.09071,GB
+Southport,53.64581,-3.01008,GB
+South Ockendon,51.50799,0.28333,GB
+South Hayling,50.78773,-0.97697,GB
+Southend-on-Sea,51.53782,0.71433,GB
+South Elmsall,53.59709,-1.28034,GB
+South Benfleet,51.55295,0.55962,GB
+Southampton,50.90395,-1.40428,GB
+Southall,51.50896,-0.3713,GB
+Solihull,52.41426,-1.78094,GB
+Slough,51.50949,-0.59541,GB
+Sleaford,52.99826,-0.40941,GB
+Skelmersdale,53.55024,-2.77348,GB
+Skegness,53.14362,0.3363,GB
+Sittingbourne,51.34128,0.73282,GB
+Shrewsbury,52.71009,-2.75208,GB
+Shoreham-by-Sea,50.83413,-0.27431,GB
+Shipley,53.83333,-1.76667,GB
+Sheffield,53.38297,-1.4659,GB
+Sevenoaks,51.27266,0.18883,GB
+Selby,53.78333,-1.06667,GB
+Seaham,54.83903,-1.34575,GB
+Seaford,50.77141,0.10268,GB
+Scunthorpe,53.57905,-0.65437,GB
+Scarborough,54.27966,-0.40443,GB
+Sandown,50.65158,-1.16103,GB
+Sandhurst,51.34675,-0.78655,GB
+Sandbach,53.14515,-2.36251,GB
+Saltash,50.40959,-4.22514,GB
+Salisbury,51.06931,-1.79569,GB
+Salford,53.48771,-2.29042,GB
+Sale,53.42519,-2.32443,GB
+Saint Peters,51.36667,1.41667,GB
+Saint Neots,52.21667,-0.26667,GB
+St Helens,53.45,-2.73333,GB
+St Austell,50.3425,-4.77442,GB
+Saint Andrews,56.33871,-2.79902,GB
+St Albans,51.75,-0.33333,GB
+Saffron Walden,52.02337,0.24234,GB
+Ryton,52.61667,-2.35,GB
+Ryde,50.72999,-1.1621,GB
+Rutherglen,55.82885,-4.21376,GB
+Rushden,52.28927,-0.60184,GB
+Runcorn,53.34174,-2.73124,GB
+Ruislip,51.57344,-0.42341,GB
+Rugeley,52.7593,-1.93694,GB
+Rugby,52.37092,-1.26417,GB
+Royton,53.56507,-2.12267,GB
+Royston,52.04832,-0.02438,GB
+Royal Tunbridge Wells,51.13321,0.26256,GB
+Rottingdean,50.80984,-0.05939,GB
+Rotherham,53.43012,-1.35678,GB
+Romsey,50.98906,-1.49989,GB
+Romford,51.57515,0.18582,GB
+Rochford,51.58198,0.70673,GB
+Rochester,51.38764,0.50546,GB
+Rochdale,53.61766,-2.1552,GB
+Risca,51.60799,-3.10081,GB
+Ripon,54.13579,-1.52826,GB
+Ripley,53.03333,-1.4,GB
+Rhyl,53.31929,-3.49228,GB
+Rhosllanerchrugog,53.00974,-3.05814,GB
+Rhondda,51.65896,-3.44885,GB
+Renfrew,55.87197,-4.39253,GB
+Reigate,51.23736,-0.20582,GB
+Redruth,50.23315,-5.22434,GB
+Redhill,51.24048,-0.17044,GB
+Redditch,52.3065,-1.94569,GB
+Redcar,54.61657,-1.05999,GB
+Reading,51.45625,-0.97113,GB
+Rayleigh,51.58571,0.60459,GB
+Rawtenstall,53.70076,-2.28442,GB
+Rawmarsh,53.46062,-1.34437,GB
+Ramsgate,51.33568,1.41797,GB
+Ramsbottom,53.64789,-2.31683,GB
+Purley,51.33678,-0.11201,GB
+Pudsey,53.79538,-1.66134,GB
+Prestwich,53.53333,-2.28333,GB
+Preston,53.76282,-2.70452,GB
+Prestatyn,53.33748,-3.40776,GB
+Prescot,53.42948,-2.80031,GB
+Poulton-le-Fylde,53.83333,-2.98333,GB
+Potters Bar,51.69353,-0.17835,GB
+Portsmouth,50.79899,-1.09125,GB
+Portslade,50.84286,-0.21608,GB
+Portishead,51.48199,-2.76973,GB
+Porthcawl,51.47903,-3.70362,GB
+Port Glasgow,55.93464,-4.6895,GB
+Portadown,54.42302,-6.44434,GB
+Poole,50.71429,-1.98458,GB
+Pontypridd,51.6021,-3.34211,GB
+Pontypool,51.70111,-3.04444,GB
+Pontefract,53.69107,-1.31269,GB
+Plymstock,50.35999,-4.09049,GB
+Plymouth,50.37153,-4.14305,GB
+Pitsea,51.56387,0.50859,GB
+Pinner,51.59384,-0.38216,GB
+Peterlee,54.76032,-1.33649,GB
+Peterhead,57.50517,-1.78435,GB
+Peterborough,52.57364,-0.24777,GB
+Perth,56.39522,-3.43139,GB
+Penzance,50.11861,-5.53715,GB
+Penrith,54.66579,-2.75757,GB
+Penicuik,55.83116,-3.22608,GB
+Penarth,51.4386,-3.17342,GB
+Paisley,55.83173,-4.43254,GB
+Paignton,50.43565,-3.56789,GB
+Oxford,51.75222,-1.25596,GB
+Oswestry,52.86195,-3.05497,GB
+Ossett,53.67978,-1.58006,GB
+Orpington,51.37457,0.09785,GB
+Ormskirk,53.56685,-2.88178,GB
+Omagh,54.6,-7.3,GB
+Oldham,53.54051,-2.1183,GB
+Oadby,52.60621,-1.08354,GB
+Nuneaton,52.52323,-1.46523,GB
+Nottingham,52.9536,-1.15047,GB
+Norwich,52.62783,1.29834,GB
+Northwich,53.25882,-2.52025,GB
+North Shields,55.01646,-1.44925,GB
+Northolt,51.54855,-0.36778,GB
+Lancing,50.82882,-0.32247,GB
+Northampton,52.25,-0.88333,GB
+Northallerton,54.33901,-1.43243,GB
+Newtownards,54.59236,-5.69092,GB
+Newtownabbey,54.65983,-5.90858,GB
+Newton Mearns,55.77334,-4.33339,GB
+Newton-le-Willows,53.45,-2.6,GB
+Newton Aycliffe,54.61842,-1.5719,GB
+Newton Abbot,50.52858,-3.61186,GB
+Newry,54.17841,-6.33739,GB
+Newquay,50.41557,-5.07319,GB
+Newport Pagnell,52.08731,-0.72218,GB
+Newport,51.58774,-2.99835,GB
+Newport,50.70146,-1.29124,GB
+New Milton,50.75601,-1.6658,GB
+New Mills,53.36592,-1.99986,GB
+Newmarket,52.24467,0.40418,GB
+New Malden,51.40065,-0.2617,GB
+Newcastle upon Tyne,54.97328,-1.61396,GB
+Newcastle under Lyme,53,-2.23333,GB
+Newbury,51.40148,-1.32471,GB
+Newburn,54.9876,-1.74415,GB
+Newark on Trent,53.06667,-0.81667,GB
+Neston,53.28333,-3.05,GB
+Nelson,53.83333,-2.2,GB
+Neath,51.66317,-3.80443,GB
+Nantwich,53.06878,-2.52051,GB
+Nailsea,51.43239,-2.75847,GB
+Musselburgh,55.9417,-3.04991,GB
+Mountsorrel,52.71667,-1.15,GB
+Motherwell,55.78924,-3.99187,GB
+Morley,53.74013,-1.59877,GB
+Moreton,53.4,-3.11667,GB
+Morecambe,54.06835,-2.86108,GB
+Morden,51.39822,-0.19837,GB
+Mitcham,51.40322,-0.16831,GB
+Mirfield,53.67343,-1.69636,GB
+Milton Keynes,52.04172,-0.75583,GB
+Middleton,53.55,-2.2,GB
+Middlesbrough,54.57623,-1.23483,GB
+Mexborough,53.49389,-1.29243,GB
+Merthyr Tydfil,51.74794,-3.37779,GB
+Melton Mowbray,52.76588,-0.88693,GB
+Melksham,51.37281,-2.14002,GB
+Marple,53.39452,-2.06292,GB
+Marlow,51.56933,-0.77415,GB
+Market Harborough,52.4776,-0.92053,GB
+Margate,51.38132,1.38617,GB
+March,52.55131,0.08828,GB
+Mansfield Woodhouse,53.16495,-1.19384,GB
+Mansfield,53.13333,-1.2,GB
+Mangotsfield,51.4878,-2.50403,GB
+Manchester,53.48095,-2.23743,GB
+Maltby,53.41667,-1.2,GB
+Maldon,51.7311,0.67463,GB
+Maidstone,51.26667,0.51667,GB
+Maidenhead,51.52279,-0.71986,GB
+Maghull,53.51619,-2.94117,GB
+Maesteg,51.60926,-3.65823,GB
+Macclesfield,53.26023,-2.12564,GB
+Lymington,50.75767,-1.5443,GB
+Luton,51.87967,-0.41748,GB
+Lowestoft,52.47523,1.75167,GB
+Louth,53.36664,-0.00438,GB
+Loughborough,52.76667,-1.2,GB
+Longfield,51.3969,0.30212,GB
+Long Eaton,52.89855,-1.27136,GB
+Londonderry County Borough,54.99721,-7.30917,GB
+Derry,54.9981,-7.30934,GB
+London,51.50853,-0.12574,GB
+Lofthouse,53.72947,-1.49697,GB
+Llanelli,51.68195,-4.16191,GB
+Llandudno,53.32498,-3.83148,GB
+Livingston,55.90288,-3.52261,GB
+Liverpool,53.41058,-2.97794,GB
+Littlehampton,50.81137,-0.54078,GB
+Litherland,53.46993,-2.99809,GB
+Lisburn,54.52337,-6.03527,GB
+Lincoln,53.22683,-0.53792,GB
+Lichfield,52.68154,-1.82549,GB
+Leyland,53.69786,-2.68758,GB
+Lewes,50.87398,0.0088,GB
+Leighton Buzzard,51.91722,-0.65802,GB
+Leigh,53.49642,-2.51973,GB
+Leicester,52.6386,-1.13169,GB
+Leek,53.10434,-2.02207,GB
+Leeds,53.79648,-1.54785,GB
+Leatherhead,51.29652,-0.3338,GB
+Royal Leamington Spa,52.2852,-1.52,GB
+Larne,54.85,-5.81667,GB
+Larkhall,55.73333,-3.96667,GB
+Lancaster,54.04649,-2.79988,GB
+Kirkintilloch,55.93933,-4.15262,GB
+Kirkcaldy,56.11683,-3.15999,GB
+Kirkby in Ashfield,53.09982,-1.24379,GB
+Kirkby,53.48138,-2.89215,GB
+Kippax,53.76687,-1.37099,GB
+Kingswood,51.45278,-2.50833,GB
+Kingswinford,52.49755,-2.16889,GB
+Kingston upon Hull,53.7446,-0.33525,GB
+King's Lynn,52.75172,0.39516,GB
+Kilwinning,55.65333,-4.70666,GB
+Kilmarnock,55.61171,-4.49581,GB
+Kidsgrove,53.08691,-2.23777,GB
+Kidlington,51.82166,-1.2886,GB
+Kidderminster,52.38819,-2.25,GB
+Keynsham,51.41387,-2.4978,GB
+Kettering,52.39836,-0.72571,GB
+Kenilworth,52.34958,-1.58276,GB
+Kendal,54.32681,-2.74757,GB
+Kempston,52.11599,-0.50044,GB
+Keighley,53.86791,-1.90664,GB
+Johnstone,55.82906,-4.51605,GB
+Jarrow,54.98036,-1.48423,GB
+Islington,51.53622,-0.10304,GB
+Isleworth,51.47518,-0.34246,GB
+Irvine,55.6194,-4.65508,GB
+Irlam,53.44253,-2.42323,GB
+Ipswich,52.05917,1.15545,GB
+Inverness,57.47908,-4.22398,GB
+Ilkeston,52.97055,-1.30951,GB
+Hythe,50.86004,-1.40162,GB
+Hyde,53.45131,-2.07943,GB
+Huyton,53.4115,-2.83935,GB
+Huntingdon,52.33049,-0.18651,GB
+Huddersfield,53.64904,-1.78416,GB
+Hucknall,53.03333,-1.2,GB
+Hoyland Nether,53.5,-1.45,GB
+Hove,50.83088,-0.1672,GB
+Hounslow,51.46839,-0.36092,GB
+Houghton-Le-Spring,54.84034,-1.46427,GB
+Horwich,53.60126,-2.54975,GB
+Horsham,51.06314,-0.32757,GB
+Horsforth,53.8426,-1.63754,GB
+Horley,51.17423,-0.15919,GB
+Hook,51.36803,-0.3065,GB
+Hoddesdon,51.76148,-0.01144,GB
+Hitchin,51.94924,-0.28496,GB
+Hindley,53.53333,-2.58333,GB
+Hinckley,52.5389,-1.37613,GB
+High Wycombe,51.62907,-0.74934,GB
+High Blantyre,55.78438,-4.10007,GB
+Heysham,54.04367,-2.89322,GB
+Heswall,53.32733,-3.09648,GB
+Hertford,51.79588,-0.07854,GB
+Herne Bay,51.373,1.12857,GB
+Hereford,52.05684,-2.71482,GB
+Hemel Hempstead,51.75368,-0.44975,GB
+Hebburn,54.97302,-1.51546,GB
+Heanor,53.01372,-1.35383,GB
+Hazel Grove,53.38333,-2.11667,GB
+Haywards Heath,50.99769,-0.10313,GB
+Hayes,51.51579,-0.4234,GB
+Haydock,53.46723,-2.68166,GB
+Hawarden,53.18478,-3.02578,GB
+Haverhill,52.08226,0.43891,GB
+Havant,50.8567,-0.98559,GB
+Hatfield,51.76338,-0.22419,GB
+Hastings,50.85519,0.57292,GB
+Haslingden,53.70326,-2.32382,GB
+Harwich,51.94194,1.28437,GB
+Hartley,51.38673,0.30367,GB
+Hartlepool,54.68554,-1.21028,GB
+Harrogate,53.99078,-1.5373,GB
+Harpenden,51.81684,-0.35706,GB
+Harlow,51.77655,0.11158,GB
+Hampton,51.41334,-0.36701,GB
+Hamilton,55.76667,-4.03333,GB
+Halifax,53.71667,-1.85,GB
+Halesowen,52.44859,-2.04938,GB
+Hale,51.22946,-0.78908,GB
+Hailsham,50.8622,0.25775,GB
+Hadleigh,51.55269,0.60983,GB
+Guiseley,53.87561,-1.71232,GB
+Guisborough,54.53478,-1.05606,GB
+Guildford,51.23536,-0.57427,GB
+Grove,51.60954,-1.42187,GB
+Grimsby,53.56539,-0.07553,GB
+Greenock,55.94838,-4.76121,GB
+Greenford,51.52866,-0.35508,GB
+Great Yarmouth,52.60831,1.73052,GB
+Great Wyrley,52.66277,-2.01111,GB
+Great Sankey,53.39234,-2.63994,GB
+Great Malvern,52.11161,-2.32515,GB
+Grays,51.47566,0.32521,GB
+Gravesend,51.44206,0.37106,GB
+Grantham,52.91149,-0.64184,GB
+Grangemouth,56.01141,-3.72183,GB
+Gosport,50.79509,-1.12902,GB
+Gosforth,55,-1.61667,GB
+Gorseinon,51.66931,-4.04163,GB
+Goole,53.70324,-0.87732,GB
+Golborne,53.47693,-2.59651,GB
+Godalming,51.1858,-0.61489,GB
+Gloucester,51.86568,-2.2431,GB
+Glossop,53.44325,-1.949,GB
+Glenrothes,56.19514,-3.17316,GB
+Glasgow,55.86515,-4.25763,GB
+Gillingham,51.38914,0.54863,GB
+Gelligaer,51.66444,-3.25611,GB
+Gateshead,54.96209,-1.60168,GB
+Gainsborough,53.38333,-0.76667,GB
+Fylde,53.83333,-2.91667,GB
+Frome,51.22834,-2.32211,GB
+Frinton-on-Sea,51.83061,1.24424,GB
+Formby,53.55838,-3.06999,GB
+Folkestone,51.08169,1.16734,GB
+Flint,53.24488,-3.13231,GB
+Fleetwood,53.92527,-3.01085,GB
+Fleet,51.28333,-0.83333,GB
+Feltham,51.4462,-0.41388,GB
+Felling,54.95297,-1.57152,GB
+Felixstowe,51.96375,1.3511,GB
+Faversham,51.3148,0.88856,GB
+Farnworth,53.55,-2.4,GB
+Farnham,51.21444,-0.80054,GB
+Farnborough,51.29424,-0.75565,GB
+Fareham,50.85162,-1.17929,GB
+Falmouth,50.15441,-5.07113,GB
+Falkirk,56.0021,-3.78535,GB
+Exmouth,50.61723,-3.40233,GB
+Exeter,50.7236,-3.52751,GB
+Evesham,52.09237,-1.94887,GB
+Esher,51.36969,-0.36693,GB
+Epsom,51.3305,-0.27011,GB
+Enfield Town,51.65147,-0.08497,GB
+Emsworth,50.84779,-0.93697,GB
+Ely,52.39964,0.26196,GB
+Ellesmere Port,53.27875,-2.90134,GB
+Elland,53.6851,-1.83878,GB
+Elgin,57.64947,-3.31843,GB
+Egham,51.43158,-0.55239,GB
+Edinburgh,55.95206,-3.19648,GB
+Eccles,53.48333,-2.33333,GB
+Ebbw Vale,51.77714,-3.20792,GB
+Eastwood,53,-1.3,GB
+Retford,53.32213,-0.94315,GB
+East Molesey,51.39872,-0.34916,GB
+Eastleigh,50.96667,-1.35,GB
+East Kilbride,55.76412,-4.17669,GB
+East Grinstead,51.12382,-0.0061,GB
+East Dereham,52.68333,0.93333,GB
+Eastbourne,50.76871,0.28453,GB
+Durham,54.77676,-1.57566,GB
+Dunstable,51.88571,-0.52288,GB
+Dunfermline,56.07156,-3.45887,GB
+Dundee,56.46913,-2.97489,GB
+Dumfries,55.06959,-3.61139,GB
+Dumbarton,55.94433,-4.57061,GB
+Dukinfield,53.47497,-2.08809,GB
+Dudley,52.5,-2.08333,GB
+Droylsden,53.48005,-2.14543,GB
+Dronfield,53.30221,-1.47507,GB
+Droitwich,52.26667,-2.15,GB
+Dover,51.12598,1.31257,GB
+Dorking,51.23228,-0.3338,GB
+Dorchester,50.71667,-2.43333,GB
+Doncaster,53.52285,-1.13116,GB
+Dinnington,53.36667,-1.2,GB
+Didcot,51.60928,-1.24214,GB
+Dewsbury,53.69076,-1.62907,GB
+Devizes,51.35084,-1.99421,GB
+Derby,52.92277,-1.47663,GB
+Denton,53.45678,-2.11822,GB
+Deal,51.22322,1.40432,GB
+Daventry,52.25688,-1.16066,GB
+Darwen,53.69803,-2.46494,GB
+Darton,53.58705,-1.52676,GB
+Dartford,51.44657,0.21423,GB
+Darlington,54.52429,-1.55039,GB
+Dalserf,55.73333,-3.91667,GB
+Dagenham,51.55,0.16667,GB
+Cwmbran,51.65446,-3.02281,GB
+Cumbernauld,55.94685,-3.99051,GB
+Croydon,51.38333,-0.1,GB
+Crowthorne,51.37027,-0.79219,GB
+Crowborough,51.06098,0.16342,GB
+Crewe,53.09787,-2.44161,GB
+Crawley,51.11303,-0.18312,GB
+Cramlington,55.08652,-1.58598,GB
+Cowley,51.73213,-1.20631,GB
+Cowes,50.76306,-1.29772,GB
+Coventry,52.40656,-1.51217,GB
+Coulsdon,51.32002,-0.14088,GB
+Corby,52.49637,-0.68939,GB
+Consett,54.85404,-1.8316,GB
+Conisbrough,53.48188,-1.23214,GB
+Congleton,53.16314,-2.21253,GB
+Colwyn Bay,53.29483,-3.72674,GB
+Colne,53.85713,-2.16851,GB
+Coleraine,55.13333,-6.66667,GB
+Colchester,51.88921,0.90421,GB
+Coity,51.522,-3.55531,GB
+Cobham,51.32997,-0.4113,GB
+Coatbridge,55.86216,-4.02469,GB
+Coalville,52.72247,-1.3702,GB
+Clydebank,55.90137,-4.4057,GB
+Clydach,51.68333,-3.9,GB
+Clevedon,51.44227,-2.85786,GB
+Cleethorpes,53.56047,-0.03225,GB
+Cleckheaton,53.72405,-1.71294,GB
+Clacton-on-Sea,51.78967,1.15597,GB
+Cirencester,51.71927,-1.97145,GB
+Christchurch,50.73583,-1.78129,GB
+Chorley,53.65,-2.61667,GB
+Chislehurst,51.41709,0.06858,GB
+Chipping Sodbury,51.53813,-2.39379,GB
+Chippenham,51.46,-2.12472,GB
+Chichester,50.83673,-0.78003,GB
+Chester-le-Street,54.85862,-1.57408,GB
+Chesterfield,53.25,-1.41667,GB
+Chester,53.1905,-2.89189,GB
+Chessington,51.3624,-0.30427,GB
+Cheshunt,51.7002,-0.03026,GB
+Chesham,51.7,-0.6,GB
+Chepstow,51.64087,-2.67683,GB
+Cheltenham,51.90006,-2.07972,GB
+Chelsea,51.48755,-0.16936,GB
+Chelmsford,51.73575,0.46958,GB
+Cheadle Hulme,53.3761,-2.1897,GB
+Chatham,51.37891,0.52786,GB
+Chapeltown,53.46506,-1.47217,GB
+Chalfont Saint Peter,51.60885,-0.55618,GB
+Caterham,51.2823,-0.07889,GB
+Castlereagh,54.5735,-5.88472,GB
+Castleford,53.72587,-1.36256,GB
+Carterton,51.75905,-1.59435,GB
+Carshalton,51.36829,-0.16755,GB
+Carrickfergus,54.7158,-5.8058,GB
+Carmarthen,51.85552,-4.30535,GB
+Carlisle,54.8951,-2.9382,GB
+Cardiff,51.48,-3.18,GB
+Canterbury,51.27904,1.07992,GB
+Cannock,52.69045,-2.03085,GB
+Cambuslang,55.80966,-4.16096,GB
+Cambridge,52.2,0.11667,GB
+Camborne,50.21306,-5.29731,GB
+Camberley,51.33705,-0.74261,GB
+Calne,51.43879,-2.00571,GB
+Caerphilly,51.57452,-3.218,GB
+Buxton,53.25741,-1.90982,GB
+Bushey,51.64316,-0.36053,GB
+Bury St Edmunds,52.2463,0.71111,GB
+Bury,53.6,-2.3,GB
+Burton upon Trent,52.80728,-1.64263,GB
+Burntwood,52.68075,-1.92759,GB
+Burnley,53.8,-2.23333,GB
+Burnham-on-Sea,51.23862,-2.9978,GB
+Burgess Hill,50.95843,-0.13287,GB
+Buckley,53.16667,-3.08333,GB
+Brymbo,53.06667,-3.06667,GB
+Broxburn,55.93415,-3.47133,GB
+Brownhills,52.63333,-1.93333,GB
+Brough,53.72861,-0.57215,GB
+Bromsgrove,52.33574,-2.05983,GB
+Broadstairs,51.35908,1.43938,GB
+Brixham,50.39431,-3.51585,GB
+Briton Ferry,51.63106,-3.81898,GB
+Bristol,51.45523,-2.59665,GB
+Brighton,50.82838,-0.13947,GB
+Brighouse,53.70322,-1.78428,GB
+Brierley Hill,52.48173,-2.12139,GB
+Bridlington,54.08306,-0.19192,GB
+Bridgwater,51.12837,-3.00356,GB
+Bridgend,51.50583,-3.57722,GB
+Brentwood,51.62127,0.30556,GB
+Brent,51.55306,-0.3023,GB
+Bredbury,53.41667,-2.11667,GB
+Bramhall,53.35801,-2.16539,GB
+Braintree,51.87819,0.55292,GB
+Bradford,53.79391,-1.75206,GB
+Bracknell,51.41363,-0.75054,GB
+Bournemouth,50.72048,-1.8795,GB
+Boston,52.97633,-0.02664,GB
+Borehamwood,51.65468,-0.27762,GB
+Bootle,53.46667,-3.01667,GB
+Bonnyrigg,55.87329,-3.1051,GB
+Bolton,53.58333,-2.43333,GB
+Bognor Regis,50.78206,-0.67978,GB
+Blyth,55.12708,-1.50856,GB
+Bloxwich,52.61806,-2.00431,GB
+Bletchley,51.99334,-0.73471,GB
+Blackpool,53.81667,-3.05,GB
+Blackburn,53.75,-2.48333,GB
+Bishopstoke,50.96643,-1.32832,GB
+Bishops Stortford,51.87113,0.15868,GB
+Bishopbriggs,55.90669,-4.21869,GB
+Bishop Auckland,54.65554,-1.67706,GB
+Birmingham,52.48142,-1.89983,GB
+Birkenhead,53.39337,-3.01479,GB
+Bingley,53.84861,-1.83857,GB
+Billingham,54.58881,-1.29034,GB
+Billericay,51.62867,0.41963,GB
+Biggleswade,52.08652,-0.26493,GB
+Bideford,51.01678,-4.20832,GB
+Biddulph,53.11724,-2.17584,GB
+Bicester,51.89998,-1.15357,GB
+Bexley,51.44162,0.14866,GB
+Bexhill-on-Sea,50.85023,0.47095,GB
+Beverley,53.84587,-0.42332,GB
+Berkhamsted,51.7604,-0.56528,GB
+Bentley,53.53333,-1.15,GB
+Belper,53.0233,-1.48119,GB
+Bellshill,55.81667,-4.01667,GB
+Belfast,54.59682,-5.92541,GB
+Bedworth,52.4791,-1.46909,GB
+Bedlington,55.13061,-1.59319,GB
+Bedford,52.13459,-0.46632,GB
+Beckenham,51.40878,-0.02526,GB
+Bebington,53.35,-3.01667,GB
+Bearsden,55.91536,-4.33279,GB
+Batley,53.70291,-1.6337,GB
+Bathgate,55.90204,-3.64398,GB
+Bath,51.3751,-2.36172,GB
+Basingstoke,51.26249,-1.08708,GB
+Basildon,51.56844,0.45782,GB
+Basford,52.96667,-1.18333,GB
+Barry,51.39979,-3.2838,GB
+Barrow in Furness,54.11094,-3.22758,GB
+Barrhead,55.79916,-4.39285,GB
+Barnstaple,51.08022,-4.05808,GB
+Barnsley,53.55,-1.48333,GB
+Barnet,51.65,-0.2,GB
+Barking,51.53333,0.08333,GB
+Banstead,51.32233,-0.20685,GB
+Bangor,54.66079,-5.66802,GB
+Bangor,53.22752,-4.12936,GB
+Banbury,52.0632,-1.34222,GB
+Banbridge,54.35,-6.28333,GB
+Ballymena,54.86357,-6.27628,GB
+Baildon,53.84711,-1.78785,GB
+Ayr,55.46273,-4.63393,GB
+Aylesbury,51.81665,-0.81458,GB
+Atherton,53.52371,-2.49354,GB
+Aston,52.5,-1.88333,GB
+Ashton-under-Lyne,53.48876,-2.0989,GB
+Ashton in Makerfield,53.48333,-2.65,GB
+Ashington,55.17719,-1.56412,GB
+Ashford,51.43173,-0.45761,GB
+Ashford,51.14648,0.87376,GB
+Ascot,51.41082,-0.6748,GB
+Arnold,53,-1.13333,GB
+Arbroath,56.56317,-2.58736,GB
+Antrim,54.7175,-6.211,GB
+Andover,51.21135,-1.49393,GB
+Ampthill,52.02694,-0.49567,GB
+Ammanford,51.79279,-3.98833,GB
+Amersham,51.66667,-0.61667,GB
+Altrincham,53.38752,-2.34848,GB
+Alton,51.14931,-0.97469,GB
+Alloa,56.11586,-3.78997,GB
+Alfreton,53.09766,-1.38376,GB
+Aldridge,52.60549,-1.91715,GB
+Aldershot,51.24827,-0.76389,GB
+Airdrie,55.86602,-3.98025,GB
+Adwick le Street,53.57077,-1.18454,GB
+Acton,51.50901,-0.2762,GB
+Acocks Green,52.45,-1.81667,GB
+Accrington,53.75379,-2.35863,GB
+Abingdon,51.67109,-1.28278,GB
+Aberystwyth,52.41548,-4.08292,GB
+Abergele,53.28436,-3.5822,GB
+Aberdeen,57.14369,-2.09814,GB
+Aberdare,51.71438,-3.44918,GB
+Crosby,53.47778,-3.03333,GB
+Tonypandy,51.62202,-3.45544,GB
+Blackwood,51.66778,-3.2075,GB
+Neston,51.41222,-2.20056,GB
+Camden Town,51.54057,-0.14334,GB
+Telford,52.67659,-2.44926,GB
+Craigavon,54.44709,-6.387,GB
+Bayswater,51.51116,-0.18426,GB
+Yateley,51.34305,-0.82985,GB
+Bowthorpe,52.63884,1.21885,GB
+Hedge End,50.91234,-1.30076,GB
+Gerrards Cross,51.5861,-0.55543,GB
+Erskine,55.9005,-4.45028,GB
+Hale,53.37831,-2.33271,GB
+Amersham on the Hill,51.67468,-0.60742,GB
+Battersea,51.47475,-0.15547,GB
+South Croydon,51.36217,-0.09421,GB
+Hornchurch,51.55685,0.21664,GB
+Surbiton,51.39148,-0.29825,GB
+Ewell,51.34948,-0.2494,GB
+Becontree,51.5529,0.129,GB
+Brixton,51.46593,-0.10652,GB
+Bethnal Green,51.52718,-0.06109,GB
+Failsworth,53.50484,-2.16568,GB
+Radcliffe,53.56178,-2.32455,GB
+Heywood,53.59245,-2.21941,GB
+Longsight,53.45801,-2.20104,GB
+Heavitree,50.72044,-3.49646,GB
+Ferndown,50.80743,-1.89975,GB
+Canary Wharf,51.50519,-0.02085,GB
+Earl Shilton,52.57682,-1.31536,GB
+Bordon,51.11357,-0.86245,GB
+Lytham St Annes,53.7426,-2.997,GB
+Hadley Wood,51.66669,-0.16981,GB
+Chapel Allerton,53.82901,-1.53834,GB
+Blackheath,51.4647,0.0079,GB
+Kempston Hardwick,52.08956,-0.49908,GB
+Mendip,51.2372,-2.6266,GB
+Lower Earley,51.42708,-0.91979,GB
+Bartley Green,52.43532,-1.99707,GB
+Canvey Island,51.52199,0.5809,GB
+Earlsfield,51.4439,-0.1854,GB
+Peacehaven,50.7927,-0.00652,GB
+Letchworth Garden City,51.97938,-0.22664,GB
+Peckham,51.47403,-0.06969,GB
+Shirley,52.41074,-1.81952,GB
+Stanley,54.86796,-1.69846,GB
+Rossendale,53.68456,-2.2769,GB
+Thornton-Cleveleys,53.87389,-3.02244,GB
+Deeside,53.20053,-3.03841,GB
+High Peak,53.36797,-1.84536,GB
+Hayling Island,50.7838,-0.96869,GB
+Isle of Lewis,58.21901,-6.38803,GB
+Orkney,58.98465,-2.95953,GB
+Holloway,51.55237,-0.12497,GB
+Harringay,51.5824,-0.09956,GB
+Blantyre,55.79634,-4.09485,GB
+Vale of Leven,55.97132,-4.57928,GB
+Viewpark,55.82737,-4.0573,GB
+Burngreave,53.39302,-1.45789,GB
+Archway,51.56733,-0.13415,GB
+Sinfin,52.88157,-1.48681,GB
+Washwood Heath,52.50054,-1.82657,GB
